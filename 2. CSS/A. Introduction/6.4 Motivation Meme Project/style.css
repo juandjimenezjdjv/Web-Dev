@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+#asdf {
+  font-family: "Ga Maamli", sans-serif;
+  color: white;
+}
+
+img{
+  border: 5px solid white;
+  width: 100%;
+}
+
+div {
+  /* margin: 100px auto 0 auto; */
+  text-align: center;  
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+}
+
+p {
+  color: white;
+}
